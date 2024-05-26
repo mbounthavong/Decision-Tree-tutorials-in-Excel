@@ -10,7 +10,7 @@ I wrote a blog on how to build a tornado diagram using Excel VBA macros. I poste
 The Excel file with the VBA macros is located in [this repository](https://github.com/mbounthavong/Decision-Tree-tutorials-in-Excel/tree/main/One-way%20sensitivity%20analysis). Note: When opening the `*.xlsm` file, make sure to enable macros. 
 
 ## Tree Builder app
-The University of Pittsburgh has an `html` application that can generate nice decision trees. You will need to download all the contents in this [folder](https://www.dropbox.com/scl/fo/vk1g5oiqdaepk2bfhs5oh/ABZO08pVsZACqpG1xPtOUgA?rlkey=7edfwjw67qpz00zuvdmxbnmxk&dl=0) into a personal folder on your hard drive. Once the contents have been saved, you will need to double-click on the `index.html` file to open the application in a browser. 
+The University of Pittsburgh has an `html` application that can generate nice decision trees. You will need to download all the contents in this [repository folder](https://github.com/mbounthavong/Decision-Tree-tutorials-in-Excel/tree/main/University%20of%20Pittsburgh%20Tree%20Builder%20app) into a personal folder on your hard drive. Once the contents have been saved, you will need to double-click on the `index.html` file to open the application in a browser. 
 
 <img src = 'https://github.com/mbounthavong/Decision-Tree-tutorials-in-Excel/blob/main/Figures/decision%20tree%20app.png' width = 80%>
 
